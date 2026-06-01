@@ -28,8 +28,8 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 python backend/app.py
 
-Фронтенд в отдельном терминале:
-cd frontend
+Фронтенд в отдельном терминале по одной команде:
+npm install
 npx serve .
 
 И открываешь http://localhost:3000
