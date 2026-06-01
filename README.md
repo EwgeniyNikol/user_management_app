@@ -37,4 +37,4 @@ npx serve .
 ## Ссылки
 
 - Фронтенд: https://ewgeniynikol.github.io/user_management_app/
-- Бэкенд: https://user-management-api.onrender.com
+- Бэкенд: https://user-management-api-7n9t.onrender.com
